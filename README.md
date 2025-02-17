@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-02-17 at 20 41 43_1bf6f2f9](https://github.com/user-attachments/assets/edf4d3fa-ebcc-4e7f-b2d3-b97632db34c2)# light-traffic-controller-
+# light-traffic-controller-
 The project involves designing a light controller for the intersection of two one-way streets using an FPGA (Cyclone III) and Verilog.
 # Traffic Light Controller for the Intersection of Two One-Way Streets
 
